@@ -1,0 +1,7 @@
+C:\Users\Kolya\source\repos\Lb5\Lb 5.3\bin\Debug\Lb 5.3.exe.config
+C:\Users\Kolya\source\repos\Lb5\Lb 5.3\bin\Debug\Lb 5.3.exe
+C:\Users\Kolya\source\repos\Lb5\Lb 5.3\bin\Debug\Lb 5.3.pdb
+C:\Users\Kolya\source\repos\Lb5\Lb 5.3\obj\Debug\Lb 5.3.csprojAssemblyReference.cache
+C:\Users\Kolya\source\repos\Lb5\Lb 5.3\obj\Debug\Lb 5.3.csproj.CoreCompileInputs.cache
+C:\Users\Kolya\source\repos\Lb5\Lb 5.3\obj\Debug\Lb 5.3.exe
+C:\Users\Kolya\source\repos\Lb5\Lb 5.3\obj\Debug\Lb 5.3.pdb
